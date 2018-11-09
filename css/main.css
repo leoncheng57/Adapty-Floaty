@@ -2053,7 +2053,7 @@ body {
 }
 
 .banner-area .height {
-  height: 540px;
+  height: 50px;
 }
 
 .banner-area .generic-height {
@@ -2083,7 +2083,7 @@ body {
   right: 0;
   width: 50%;
   height: 90%;
-  background: url(../img/hero-bg.png) no-repeat bottom right/contain;
+  /* background: url(../img/hero-bg.png) no-repeat bottom right/contain; */
   z-index: 2;
 }
 

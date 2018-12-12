@@ -2286,6 +2286,10 @@ body {
   z-index: 1;
 }
 
+#second-story-area:after{
+  background: url(../img/aesthetic-water-2.jpg) no-repeat center center/cover;
+}
+
 @media (max-width: 991px) {
   .story-area:after {
     display: none;

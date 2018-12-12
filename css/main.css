@@ -1977,9 +1977,9 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-.section-title {
+/* .section-title {
   padding-bottom: 30px;
-}
+} */
 
 .section-title h2 {
   margin-bottom: 10px;
@@ -2095,7 +2095,8 @@ body {
 
 .working-process-area {
   background: #fff;
-  padding: 100px 0;
+  /* padding: 100px 0; */
+  padding: 40px 0;
 }
 
 .total-work-process {
